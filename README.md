@@ -1,0 +1,1 @@
+This repository contains multiple data science projects completed during the Cognifyz internship program. Each project explores real-world datasets using Python for data cleaning, analysis, and visualization.
